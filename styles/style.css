@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.sections{
+    width: 1000px;
+    height: 500px;
+    background-color: cyan;
+}
+
+canvas{
+    background: red;
+}
